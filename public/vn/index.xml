@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chương đầu tiên :: Tiến Trung</title>
+    <link>http://localhost:1313/vn/index.html</link>
+    <description>Đây là trang chủ của tui</description>
+    <generator>Hugo</generator>
+    <language>vn</language>
+    <managingEditor>trung.nt.e@gmail.com (Trung Nguyen-Tien)</managingEditor>
+    <webMaster>trung.nt.e@gmail.com (Trung Nguyen-Tien)</webMaster>
+    <lastBuildDate>Sun, 01 Dec 2024 11:22:24 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/vn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chương đầu tiên</title>
+      <link>http://localhost:1313/vn/first-chapter/index.html</link>
+      <pubDate>Sun, 01 Dec 2024 11:22:24 +0700</pubDate><author>trung.nt.e@gmail.com (Trung Nguyen-Tien)</author>
+      <guid>http://localhost:1313/vn/first-chapter/index.html</guid>
+      <description>Đây là chương đầu tiên</description>
+    </item>
+  </channel>
+</rss>

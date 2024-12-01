@@ -1,0 +1,4 @@
+/* prettier-ignore */
+@import 'theme-learn.css?1733055622' screen and (prefers-color-scheme: light);
+/* prettier-ignore */
+@import 'theme-neon.css?1733055622' screen and (prefers-color-scheme: dark);

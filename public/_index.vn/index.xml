@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chương đầu tiên :: ILEARN</title>
+    <link>https://example.com/_index.vn/index.html</link>
+    <description>Đây là trang chủ của tui</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://example.com/_index.vn/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
